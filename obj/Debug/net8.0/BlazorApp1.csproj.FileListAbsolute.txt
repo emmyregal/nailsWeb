@@ -27,3 +27,4 @@
 /workspaces/dotnet-node-mssql/.devcontainer/BlazorApp1/obj/Debug/net8.0/BlazorApp1.pdb
 /workspaces/dotnet-node-mssql/.devcontainer/BlazorApp1/obj/Debug/net8.0/BlazorApp1.genruntimeconfig.cache
 /workspaces/dotnet-node-mssql/.devcontainer/BlazorApp1/obj/Debug/net8.0/ref/BlazorApp1.dll
+/workspaces/dotnet-node-mssql/.devcontainer/BlazorApp1/obj/Debug/net8.0/BlazorApp1.sourcelink.json
